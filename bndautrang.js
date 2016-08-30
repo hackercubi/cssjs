@@ -1,5 +1,5 @@
-//please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//please contact me daxanhyenlam@gmail.com
+//website http://daxanhyenlam.com or http://daxanhthanhhoa.com
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://daxanhthanhhoa.com/' target='_blank'><img src='http://daxanhthanhhoa.com/uploads/files/xanh%20ng%E1%BB%8Dc.jpg' width='500px'/><br/>Các sản phẩm từ đá xanh tự nhiên thanh hóa</a>. Đá lát tự nhiên thanh hóa giá rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://daxanhthanhhoa.com/' target='_blank'><img src='http://daxanhyenlam.com/uploads/files/da%20tu%20nhien%20thanh%20hoa.jpg' width='500px'/><br/>Các sản phẩm từ đá xanh tự nhiên thanh hóa</a>. Đá lát tự nhiên thanh hóa giá rẻ. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
